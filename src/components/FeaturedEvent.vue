@@ -63,8 +63,7 @@ export default {
 }
 
 @media (max-width: 768px) {
-  .g-container {
-  }
+  
   .g-card.g-fe {
     width: 100%;
     padding: 2%;
